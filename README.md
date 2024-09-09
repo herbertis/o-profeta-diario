@@ -2,7 +2,7 @@
 ### Desenvolvido para 
 <p>Desenvolvi a landing page do Profeta diario</p>
  
- <a href="https://herbertis.github.io/poco-x6-pro-5g/" target="_blank">Veja Aqui</a>
+ <a href="https://herbertis.github.io/o-profeta-diario/" target="_blank">Veja Aqui</a>
  
  <div style="display: inline_block"><br>
   
