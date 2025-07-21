@@ -1,54 +1,44 @@
-Bem-vindo ao projeto O PROFETA DIÁRIO, uma página web interativa inspirada no universo de Harry Potter! Este é um jornal mágico fictício que traz notícias, promoções e histórias do mundo bruxo, construído com HTML, CSS e um toque de JavaScript para uma experiência imersiva. O layout remete aos jornais clássicos de Harry Potter, com fontes elegantes, imagens temáticas e seções dinâmicas.
+📰 O Profeta Diário
+O Profeta Diário é uma página temática inspirada no universo de Harry Potter, desenvolvida em HTML, CSS e JavaScript, simulando uma edição digital do famoso jornal bruxo. Com uma estética mágica e conteúdo fictício envolvente, o projeto proporciona uma experiência imersiva e divertida para fãs da saga.
 
-Esta versão aprimorada, inclui mais detalhes sobre a estrutura, instruções claras de instalação, sugestões de personalização e dicas para contribuições, tornando-o mais completo e fácil de usar. O projeto demonstra habilidades em design web responsivo usando CSS e HTML para uma experiência do usuário suave.
+✨ Funcionalidades
+Layout inspirado em jornais mágicos com fontes clássicas e organização editorial.
 
-Visão Geral
-Objetivo: Criar um jornal digital temático de Harry Potter, com manchetes, artigos e elementos visuais que capturam a essência mágica da série.
+Matérias fictícias do mundo bruxo com imagens, gifs e animações.
 
-Tecnologias Usadas:
+Destaques como:
 
-HTML5 para estrutura.
+Harry Potter descobre um novo Pomo de Ouro.
 
-CSS3 para estilização (incluindo multi-colunas, resets e fontes customizadas).
+Nova direção em Hogwarts.
 
-JavaScript (via jQuery) para interações leves.
+Promoções em Olivaras e Gringotes.
 
-Dependências externas: Google Fonts, Meyer Reset CSS e Simple Line Icons.
+Festival de Hogsmeade com desconto no Expresso de Hogwarts.
 
-Tema: Notícias fictícias sobre Harry Potter, Hogwarts, personagens como Sirius Black e eventos como o Festival de Hogsmeade.
+Seção especial sobre Sirius Black, Família Black e Bellatrix Lestrange.
 
-Demo ao Vivo: Acesse a versão online do jornal aqui.
+📁 Estrutura do Projeto
+bash
+Copiar
+Editar
+/O-Profeta-Diario
+│
+├── index.html         # Página principal
+├── style.css          # Estilos personalizados
+├── script.js          # Scripts adicionais (caso necessário)
+├── /media             # Imagens e gifs usados no conteúdo
+└── README.md          # Documentação do projeto
+🔧 Tecnologias Utilizadas
+HTML5 para estruturação da página.
 
-Estrutura do Projeto
-O projeto é organizado de forma simples e intuitiva. Aqui vai um breakdown das partes principais:
+CSS3 com reset e estilização própria.
 
-Arquivos Principais
-index.html: O arquivo HTML principal, contendo o conteúdo do jornal (manchete, artigos, sidebar e elementos visuais).
+JavaScript + jQuery para possíveis interações.
 
-style.css: Estilos customizados para layout responsivo, tipografia e design temático.
+Google Fonts para tipografia temática.
 
-script.js: Scripts JavaScript para funcionalidades interativas (ex.: animações ou cliques).
-
-Pasta /media : Contém imagens, GIFs e ícones (ex.: harry-potter.gif, sirus.jpeg, etc.).
-
-Seções do Conteúdo
-Cabeçalho: Título com ícones de Harry Potter e detalhes da edição (número, data e periodicidade).
-
-Manchete Principal: Artigo sobre a descoberta de Harry Potter envolvendo um Pomo de Ouro e as Relíquias da Morte.
-
-Artigos Secundários:
-
-Nova direção em Hogwarts com o Professor Alastor Prewett.
-
-Promoções: Bilhetes para o Hogwarts Express com 50% off, descontos na Loja Olivaras e programa do Banco Gringotts.
-
-Cobertura do Festival Anual de Hogsmeade.
-
-Sidebar: Destaques sobre Sirius Black, a família Black e Bellatrix Lestrange, com imagens e resumos.
-
-Elementos Visuais: GIFs, imagens e figuras com legendas para enriquecer a narrativa.
-
-O design usa classes como main__wrapper, multi-column e sidebar para um layout em colunas, inspirado em jornais impressos.
+Simple Line Icons para ícones personalizados.
  
  <a href="https://herbertis.github.io/o-profeta-diario/" target="_blank">Veja Aqui</a>
  
