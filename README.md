@@ -18,17 +18,6 @@ Festival de Hogsmeade com desconto no Expresso de Hogwarts.
 
 Seção especial sobre Sirius Black, Família Black e Bellatrix Lestrange.
 
-📁 Estrutura do Projeto
-bash
-Copiar
-Editar
-/O-Profeta-Diario
-│
-├── index.html         # Página principal
-├── style.css          # Estilos personalizados
-├── script.js          # Scripts adicionais (caso necessário)
-├── /media             # Imagens e gifs usados no conteúdo
-└── README.md          # Documentação do projeto
 🔧 Tecnologias Utilizadas
 HTML5 para estruturação da página.
 
