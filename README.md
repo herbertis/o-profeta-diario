@@ -1,12 +1,32 @@
-# O profeta diario
-### Desenvolvido para 
-<p>Desenvolvi a landing page do Profeta diario</p>
- 
- <a href="https://herbertis.github.io/o-profeta-diario/" target="_blank">Veja Aqui</a>
- 
- <div style="display: inline_block"><br>
-  
-  <img align="center" alt="herbert-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="herbert-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   
-</div>
+# 📰 O Profeta Diário
+
+**O Profeta Diário** é uma página temática inspirada no universo de Harry Potter, desenvolvida com **HTML, CSS e JavaScript**, simulando uma edição digital do famoso jornal bruxo. Com uma estética mágica e conteúdo fictício envolvente, o projeto proporciona uma experiência imersiva e nostálgica para fãs da saga.
+
+---
+
+## ✨ Funcionalidades
+
+- 🎩 Layout editorial inspirado em jornais mágicos
+- 🧙‍♂️ Matérias fictícias do mundo bruxo com **imagens, GIFs e animações**
+- 🌙 Alternância de **modo claro/escuro** com salvamento da preferência
+- 🔗 Menu fixo com ícones e navegação entre seções
+- 📱 Layout totalmente **responsivo**, adaptado para todos os dispositivos
+
+### 📰 Destaques de conteúdo
+- **Harry Potter descobre um novo Pomo de Ouro**
+- **Nova direção em Hogwarts**
+- **Promoções em Olivaras e Gringotts**
+- **Festival de Hogsmeade com desconto no Expresso de Hogwarts**
+- **Seção especial sobre Sirius Black, Família Black e Bellatrix Lestrange**
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- ✅ **HTML5** – estruturação semântica
+- 🎨 **CSS3** – layout, grid responsivo, reset e estilização personalizada
+- ⚙️ **JavaScript + jQuery** – interações dinâmicas e alternância de tema
+- 🔤 **Google Fonts** – tipografia temática
+- 🧩 **Simple Line Icons** – ícones leves e estilizados
+
+---
