@@ -1,6 +1,6 @@
 # 📰 O Profeta Diário
 
-**O Profeta Diário** é uma página temática inspirada no universo de Harry Potter, desenvolvida com **HTML, CSS e JavaScript**, simulando uma edição digital do famoso jornal bruxo. Com uma estética mágica e conteúdo fictício envolvente, o projeto proporciona uma experiência imersiva e nostálgica para fãs da saga.
+O Profeta Diário** é uma página temática inspirada no universo de Harry Potter, desenvolvida com **HTML, CSS e JavaScript**, simulando uma edição digital do famoso jornal bruxo. Com uma estética mágica e conteúdo fictício envolvente, o projeto proporciona uma experiência imersiva e nostálgica para fãs da saga.
 https://herbertis.github.io/o-profeta-diario/
 ---
 
