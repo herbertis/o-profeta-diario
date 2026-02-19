@@ -1,11 +1,11 @@
 # 📰 O Profeta Diário
 
 Landing page temática inspirada no universo de Harry Potter, desenvolvida com HTML5, CSS3 e JavaScript, simulando a versão digital do icônico jornal bruxo.
---
+
 ## 🔗 Acesse o projeto:
 https://herbertis.github.io/o-profeta-diario/
 
---
+---
 
 ## 🎯 Objetivo do Projeto
 
@@ -21,7 +21,7 @@ Identidade visual temática
 
 O projeto simula uma edição digital interativa do jornal, equilibrando estética, usabilidade e organização de conteúdo.
 
---
+---
 
 ## ✨ Funcionalidades
 
@@ -47,7 +47,7 @@ O projeto simula uma edição digital interativa do jornal, equilibrando estéti
 
 🖤 Especial sobre Sirius Black, Família Black e Bellatrix Lestrange
 
---
+---
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -61,7 +61,7 @@ O projeto simula uma edição digital interativa do jornal, equilibrando estéti
 
 🧩 Simple Line Icons – Biblioteca de ícones
 
---
+---
 
 ## 🧠 Conceitos Aplicados
 
